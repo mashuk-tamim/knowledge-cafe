@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/BBBvVSW/hand-planning-blank-paper.jpg",
+      "title": "The Mystery of the Lost City",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/VTHB8rj/836.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 12,
+      "hashtags": ["#Adventure", "#Mystery", "#Exploration"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/5GPNttw/top-view-workspace-with-glasses-cup-tea-2.jpg",
+      "title": "A Journey Through Time",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/VTHB8rj/836.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 8,
+      "hashtags": ["#History", "#Travel", "#Culture"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/k282M5j/top-view-workspace-with-laptop-cup-tea.jpg",
+      "title": "Cooking Masterclass: Italian Cuisine",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/VTHB8rj/836.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 15,
+      "hashtags": ["#Cooking", "#Food", "#Recipes"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/D90qNRx/90000.jpg",
+      "title": "Tech Trends of the Future",
+      "author": "Robert Wilson",
+      "author_img": "https://i.ibb.co/VTHB8rj/836.jpg",
+      "posted_date": "2023-09-16",
+      "reading_time": 10,
+      "hashtags": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/YL9CZ3Q/93904.jpg",
+      "title": "Mindfulness Meditation: A Beginner's Guide",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/VTHB8rj/836.jpg",
+      "posted_date": "2023-09-18",
+      "reading_time": 7,
+      "hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
+    }
+  ]
+  
+  
